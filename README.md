@@ -7,6 +7,7 @@
 
 ---
 
+  
 ## Overview
 
 This is the **frontend setup** for a MERN stack project built using **React + Vite** and styled with **Tailwind CSS**.
